@@ -1,0 +1,14 @@
+{
+    "name": "William Stoneham",
+    "bio": "Young full stack developer with intrests in 🚗, 🐕, Auctions, ✈ + 🏃‍♂️",
+    "socials": [
+        {
+            "url": "https://github.com/RockBacon9922",
+            "icon": "FaGithub",
+        },
+        {
+            "url":"https://instagram.com/william_stoneham",
+            "icon":"FaInstagram",
+        },
+    ]
+}
